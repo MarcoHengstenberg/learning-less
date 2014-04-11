@@ -19,3 +19,11 @@ Yeah right, not interested. Go on and tell someone else about this. Someone who 
 But then I became intrigued. More and more people around the web were talking about how their workflow improved, how initial setups for frontend development or web design work would be a breeze or how separating a single CSS file into many different parts and merge them later on would reduce the time *searching for that one selector on line – what was it again – oh my.*
 
 Alright, this preprocessor thingy seems not that bad after all, **let's do this**. Only once, just trying a little and then I go back to my nice, cozy and warm CSS-world.
+
+## To Be Honest
+
+I am trying as hard as I can to make this a valuable experience but this mission won't be accomplished without proper feedback. So, after asking my friends and my mother to take a look and all of them were saying:"That's so sweet, Marco. What is it?" I ask for honest feedback from the community.
+
+Yes, I know, the trolls amongst you will already see the WIN in this and how tempting it is to crush this poor soul with soaring flames and make him weep in tears after you tore apart his precious creation. To give you a stop: I don't need that, I have a wife and two daughters.
+
+What I'm asking for is proper criticism. Please feel free to get back to me anytime and I will try to answer your questions, consider your feedback and correct failures pointed out.
