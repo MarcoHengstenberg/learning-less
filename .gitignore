@@ -1,0 +1,4 @@
+# .gitignore
+# An extra gitignore file to make git ignore the _book folder
+
+_book/
