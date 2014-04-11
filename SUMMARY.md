@@ -5,3 +5,5 @@
   - [The Installation](the-setup/the-installation.md)
 
 - [The Project](the-project/README.md)
+  - [Project Files](the-project/project-files.md)
+  - [About The Project](the-project/project-theme.md)
