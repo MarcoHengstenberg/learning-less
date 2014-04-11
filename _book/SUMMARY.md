@@ -4,4 +4,4 @@
   - [Dependencies](the-setup/dependencies.md)
   - [The Installation](the-setup/the-installation.md)
 
-- [The Project](the-project/README.md)
+-
