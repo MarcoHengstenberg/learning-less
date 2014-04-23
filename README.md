@@ -8,7 +8,7 @@ If you are on a Windows machine this guide will become helpful *after* the setup
 
 ## I Don't Need No Stinkin' Preprocessors
 
-You have mastered CSS! You are one of those people on the web, that can bend the way HTML is displayed. For you *"[There is no spoon!](https://www.youtube.com/watch?v=dzm8kTIj_0M)"*. That's great. I have been there myself and then someone told me:"Hey, you could be even better and faster by using a preprocessor like LESS or SASS." Initially, I frowned.
+You have mastered CSS! You are one of those people on the web, that can bend the way HTML is displayed. For you *"[There is no spoon!](https://www.youtube.com/watch?v=dzm8kTIj_0M)"*. That's great. I have been there myself – and then someone told me:"Hey, you could be even better and faster by using a preprocessor like LESS or SASS." Initially, I frowned.
 
 Why would I want to put a level of abstraction on the way I write code? Wait what – programming in my CSS? Variables? Are you insane? I have to use the Command Line (which is dangerous, I know that from hearing people whispering about HD crashes and stuff), Ruby and Javascript is somehow involved as well?
 

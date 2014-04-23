@@ -1,18 +1,18 @@
 # What Do We Have Here?
 
-Now that the repo is on your computer, take a look around. There should be two folders. One's called `clean` the other is `final`. Inside those folders are the files we are going to work with.
+Now that the repo is on your computer, take a look around. There should be two folders. One's called `clean` the other is `final`.
 
-## Final
+## Folders
 
-The name sais it already, this is what we are aiming at to create. Here you will find the final version of all files we will be working on.
+### Final
 
-## Clean
+The name says it already; this is what we want to create. Here you will find the final version of all files we will be working on. It serves as a reference to you, whenever you can't go on because something went wrong (due to my bad explanations).
+
+### Clean
 
 This is your working directory – where the magic happens, as we web developers say (or may be it is just me, when talking about this stuff at parties... in the corner... alone).
 
-## The Files
-
-We have a wonderful `index.html` file with some content to style, we have a less folder, a css folder (both seemingly empty apart from a `.gitkeep`) and two files we have never ever seen before. `gruntfile.js` and `package.json` (both empty, too). Finally, there is an images folder with some images inside.
+## Files
 
 ### The Index.html
 
@@ -22,11 +22,11 @@ The HTML Document is written in wonderful HTML5-goodness. In the head section yo
 
 ### Those Folders
 
-The names are speaking for themselves and as expected we will create our LESS files in the less directory and put the CSS files in the CSS directory. It's that simple.
+The names are speaking for themselves and as expected we will create our LESS files in the less directory and put the CSS files in the CSS directory. It's that simple. Inside the images folder are images.
 
 ### That Gruntfile And Package.json
 
-The Gruntfile, together with the package.json file, is where the magic happens.
+The Gruntfile, together with the package.json file, is where we define what Grunt will do for us.
 
 The package.json defines what tasks we want to use and the gruntfile tells those tasks, how to do what they are good at. Dead simple as well.
 
