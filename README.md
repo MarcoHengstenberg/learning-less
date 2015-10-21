@@ -2,13 +2,13 @@
 
 ## Before We Dive In
 
-First of all this is a course for the more experienced CSS people out there, who want to give preprocessors like LESS or SASS a try. It is not made for beginners. I'm letting you judge whether you are a beginner or amateur or a pro.
+First of all this is a course for the more experienced CSS people out there, who want to give preprocessors like LESS or SASS a try. It is not made for beginners (may be it is) and I'm letting you judge whether you are a beginner or an amateur or a pro.
 
 If you are on a Windows machine this guide will become helpful *after* the setup section. Unfortunately, I have not yet tried to work with LESS on a Windows Computer. There are [guides](https://www.youtube.com/watch?v=te5i_CIC9Po) around the web though and I hope they might help you getting up and running with LESS. Sorry for the inconvenience but talking about stuff I am not 100% sure of how it works out for you is something I do not want to do. I want to solve problems, not create some.
 
 ## I Don't Need No Stinkin' Preprocessors
 
-You have mastered CSS! You are one of those people on the web, that can bend the way HTML is displayed. For you *"[There is no spoon!](https://www.youtube.com/watch?v=dzm8kTIj_0M)"*. That's great. I have been there myself – and then someone told me:"Hey, you could be even better and faster by using a preprocessor like LESS or SASS." Initially, I frowned.
+You have mastered CSS! You are one of those people on the web, that can bend the way HTML is displayed. For you *"[There is no spoon!](https://www.youtube.com/watch?v=dzm8kTIj_0M)"*. That's great. I have been there myself – and then [someone](https://github.com/ephread) told me:"Hey, you could be even better and faster by using a preprocessor like LESS or SASS." Initially, I frowned.
 
 Why would I want to put a level of abstraction on the way I write code? Wait what – programming in my CSS? Variables? Are you insane? I have to use the Command Line (which is dangerous, I know that from hearing people whispering about HD crashes and stuff), Ruby and Javascript is somehow involved as well?
 

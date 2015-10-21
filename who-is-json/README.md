@@ -23,7 +23,7 @@ So without any further introduction here the first lines of code.
 }
 ```
 
-This is basic metadata for your project and there is much more you could add (there is also a [spec](https://www.npmjs.org/doc/json.html) if you are into that sort of thing). The minimum should be the name of the project and the version you are working on. Always make sure to end lines... wait, I told you that already.
+This is basic metadata for your project and there is much more you could add (there is also a [spec](https://www.npmjs.org/doc/json.html) if you are into that sort of thing). The minimum should be the name of the project and the version you are working on. Always make sure to end lines... wait, I told you that already. Yes. Commas!
 
 You could add keywords, contributors, a license, a URL, a repository with or without issues and whatnot. Again, if you are into that sort of thing, simply follow the link to the specification and you will find all metadata glory with examples. As you will see, one can get quite [crazy](http://registry.npmjs.org/npm/latest) with this.
 

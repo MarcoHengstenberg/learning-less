@@ -1,1 +1,1 @@
-# Grunting *\*snort\**
+# Setting up your Grunt
